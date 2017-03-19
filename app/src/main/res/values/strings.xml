@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoUngDung2</string>
+    <string name="noi_dung">-Được dùng để đánh giá mức độ gầy hay béo của một người. Chỉ số này có thể giúp xác định một người bị bệnh béo phì hay bị bệnh suy dinh dưỡng.
+\n-Gọi W là khối lượng của một người ( kg) và H là chiều cao của người đó (m), chỉ số khối cơ thể được tính theo công thức:
+</string>
+    <string name="noi_dung2">Phân loại để đánh giá như sau:\n BMI nhỏ hơn 18: người gầy \n BMI = 18 – 24,9: người bình thường \n BMI = 25 – 29,9: người béo phì độ I \n BMI = 30 – 34,9: người béo phì độ II \n BMI > 35: người béo phì độ III
+</string>
+</resources>
